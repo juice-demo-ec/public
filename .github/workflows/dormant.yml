@@ -1,0 +1,2 @@
+- name: GitHub Organization User Activity Report
+  uses: peter-murray/inactive-users-action@v1
